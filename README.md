@@ -4,7 +4,7 @@ Crea una nueva carpeta y llamalo proyecto_ihc
 
 Ubicate en aquella carpeta con git bash y aplica git init
 
-Luego aplica -> git remote add origin "https://github.com/yanpieer13/yanpieer13.github.io.git"
+Luego aplica -> git remote add origin "https://github.com/yanpieer13/webducation.git"
 
 Aplica git pull origin master
 
